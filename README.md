@@ -1,2 +1,3 @@
 # Proyecto_final
 Proyecto final kodland python pro
+El desarrollo del proyecto final (se me ocurre) va a ser una pagina para concientizar sobre el cuidado del medio ambiente, junto con una calculadora para ver que tan ecologico eres, y algunas actividades mas ( se me ocurrio hacer como un minijuego sobre como cuidar el medioambiente, de pequeña yo me llegue a meter a una pagina asi, y era un minijuego sobre ir apagando las luces de una casa cuando no se utilizaban.(Podria ser un tipo de trivia como un memorama donde la gente puedaver que tan rapido lo hizo cada uno, obteniendo algun logro o algo)
